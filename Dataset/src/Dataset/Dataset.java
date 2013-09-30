@@ -31,7 +31,7 @@ public class Dataset {
 			min = value;
 		}
 		if (value > max) {
-			max = value;
+			max = value;1
 		}
 		sum += value;
 		counter++;
